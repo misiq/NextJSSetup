@@ -1,7 +1,7 @@
 import styles from './BaseTemplate.module.css';
 
 export interface BaseTemplateProps {
-  simpleTextProp: string;
+  simpleTextProp?: string;
 }
 
 const BaseTemplate = ({ simpleTextProp }: BaseTemplateProps) => {
