@@ -2413,16 +2413,6 @@
     react-docgen-typescript "^2.1.1"
     tslib "^2.0.0"
 
-"@storybook/react-webpack5@^7.0.0-alpha.54":
-  version "7.0.0-alpha.54"
-  resolved "https://registry.yarnpkg.com/@storybook/react-webpack5/-/react-webpack5-7.0.0-alpha.54.tgz#66f27b48bd45f0279ad858fa3d031abcc119782f"
-  integrity sha512-H6q1a1NIhJ7dlYyXAC/JQ0mdpYfvv0IWDENy/rtBbA2Mt26sj//7hhilqr0CkJ+YKP5qb0tJmz/mN2tOUs0sHA==
-  dependencies:
-    "@storybook/builder-webpack5" "7.0.0-alpha.54"
-    "@storybook/preset-react-webpack" "7.0.0-alpha.54"
-    "@storybook/react" "7.0.0-alpha.54"
-    "@types/node" "^16.0.0"
-
 "@storybook/react@7.0.0-alpha.54", "@storybook/react@^7.0.0-alpha.54":
   version "7.0.0-alpha.54"
   resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.0.0-alpha.54.tgz#0b67056dc2b3307342a37b28daceb8b40c6b4162"
